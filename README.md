@@ -1,4 +1,4 @@
 # hello-world
 My first repository on GitHub
 ===
-I love writing scripts
+I love writing scripts and party
